@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/PA1_template_cache/*
+activity.csv
+RepData_PeerAssessment1.Rproj
